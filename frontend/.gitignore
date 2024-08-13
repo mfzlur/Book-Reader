@@ -17,6 +17,15 @@ coverage
 /cypress/videos/
 /cypress/screenshots/
 
+#virtual environments and databases
+env
+instance
+migrations
+uploads
+__pycache__
+export.csv
+celerybeat-schedule
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
